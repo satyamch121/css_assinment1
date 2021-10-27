@@ -1,0 +1,20 @@
+.header{
+    font-style: normal;
+    color: red;
+}
+.header2{
+    font-style: italic;
+    color: red;
+}
+.list{
+    font-style: normal;
+    color: brown;
+}
+.highlight{
+    font-style: normal;
+    font-weight: bold;
+    background-color: yellow;
+}
+.list2{
+    letter-spacing: 4px;
+}
